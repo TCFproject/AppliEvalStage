@@ -1,5 +1,4 @@
 # AppliEvalStage
-# Projet de mon 1er stage
 Il s'agit d'une application web pour informatiser l'évaluation des stages.
 En effet actuellement l'évaluation des stagiaires se fait encore par papier c'est embêtant.
 
